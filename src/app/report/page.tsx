@@ -727,7 +727,7 @@ function ReportContent() {
               Grade your website's search value, instantaneously. Comprehensive on-page and off-page AI diagnostics.
             </p>
             <div className="flex items-center gap-3.5 mt-2">
-              <a href="https://github.com/lazyshrey" target="_blank" rel="noreferrer" className="text-muted-foreground hover:text-foreground transition-colors" title="GitHub">
+              <a href="https://github.com/lazyshrey/seo-beacon" target="_blank" rel="noreferrer" className="text-muted-foreground hover:text-foreground transition-colors" title="GitHub">
                 <GithubLogo className="h-5 w-5" />
               </a>
               <a href="https://x.com/lazy_shrey" target="_blank" rel="noreferrer" className="text-muted-foreground hover:text-foreground transition-colors" title="Twitter">
@@ -740,7 +740,7 @@ function ReportContent() {
             <span className="font-bold text-[11px] uppercase tracking-wider text-foreground font-display">Product</span>
             <a href="/#features" className="hover:text-foreground transition-colors text-[11px]">Core Features</a>
             <a href="/#pricing" className="hover:text-foreground transition-colors text-[11px]">MIT License</a>
-            <a href="https://github.com/lazyshrey" target="_blank" rel="noreferrer" className="hover:text-foreground transition-colors text-[11px]">GitHub Repo</a>
+            <a href="https://github.com/lazyshrey/seo-beacon" target="_blank" rel="noreferrer" className="hover:text-foreground transition-colors text-[11px]">GitHub Repo</a>
           </div>
 
           <div className="flex flex-col gap-2.5">
@@ -753,7 +753,7 @@ function ReportContent() {
           <div className="flex flex-col gap-2.5">
             <span className="font-bold text-[11px] uppercase tracking-wider text-foreground font-display">Resources</span>
             <a href="https://lazyshrey.in" target="_blank" rel="noreferrer" className="hover:text-foreground transition-colors text-[11px]">Creator Hub</a>
-            <a href="https://github.com/lazyshrey" target="_blank" rel="noreferrer" className="hover:text-foreground transition-colors text-[11px]">MIT Source Files</a>
+            <a href="https://github.com/lazyshrey/seo-beacon" target="_blank" rel="noreferrer" className="hover:text-foreground transition-colors text-[11px]">MIT Source Files</a>
           </div>
         </div>
 
